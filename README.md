@@ -2,7 +2,11 @@
 - Software Engineer based in London, UK
 - Proficient in Java 17+
 - Actively learning Rust
-- Interested in low latency, high throughput systems, distributed computing and more.
+
+# Interests
+- Low Latency Systems
+- High Throughput Systems
+- Distributed Computing
 
 # Languages and Tools:
 - Java
