@@ -1,7 +1,12 @@
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=cameronmukherjee&theme=xcode)](https://git.io/cameronmukherjee)
+# About Me
+- Software Engineer based in London, UK
+- Proficient in Java 17+
+- Actively learning Rust
+- Interested in low latency, high throughput systems, distributed computing and more.
 
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cameronmukherjee&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cameronmukherjee&theme=dark" />
-</p>
+# Languages and Tools:
+- Java
+- Typescript / Javascript
+- Rust
+- Go
+- Python
