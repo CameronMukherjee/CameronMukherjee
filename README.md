@@ -1,9 +1,9 @@
-# About Me
+# About Me:
 - Software Engineer based in London, UK
 - Proficient in Java 17+
 - Actively learning Rust
 
-# Interests
+# Interests:
 - Low Latency Systems
 - High Throughput Systems
 - Distributed Computing
