@@ -1,7 +1,7 @@
 # About Me:
 - Software Engineer based in London, UK
-- Proficient in Java 17+
-- Actively learning Rust
+- Actively learning Rust and Kotlin
+- Looking to contribute to open source projects
 
 # Interests:
 - Low Latency Systems
