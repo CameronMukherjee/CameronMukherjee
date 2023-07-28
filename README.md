@@ -1,16 +1,9 @@
 # About Me:
-- Software Engineer based in London, UK
-- Actively learning Rust and Kotlin
+- Technical Lead based in London, UK
 - Looking to contribute to open source projects
 
-# Interests:
-- Low Latency Systems
-- High Throughput Systems
-- Distributed Computing
-
-# Languages and Tools:
+# Languages:
 - Java
-- Typescript / Javascript
+- Kotlin
 - Rust
 - Go
-- Python
