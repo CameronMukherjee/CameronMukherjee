@@ -4,6 +4,5 @@
 
 # Languages:
 - Java
-- Kotlin
 - Rust
 - Go
