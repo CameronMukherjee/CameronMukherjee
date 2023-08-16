@@ -5,7 +5,7 @@ Technical Lead, Engineer
 ------------------------
 
 * 🌍  I'm based in London, UK
-* 🖥️  See my portfolio at [Blog](http://ufu.dev)
+* 🖥️  See my blog at [ufu.dev](http://ufu.dev)
 * 🧠  I'm learning Rust and Go
 * 🤝  I'm open to collaborating on Distributed and High Performance Systems
 
